@@ -1,2 +1,2 @@
-# test-repo push
+# test-repo push pull
 test
